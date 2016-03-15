@@ -1,4 +1,4 @@
-#ifWinActive EVE
+#ifWinActive EVE - 
 initiateVariables()
 
 -::
