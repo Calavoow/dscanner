@@ -35,6 +35,7 @@ scanRange(range) {
 	clipboard = %range%
 	Send ^a ; Overwrite previous distance
 	Send ^v
+	Send {enter}
 }
 
 initiateVariables() {
